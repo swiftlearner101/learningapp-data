@@ -1,9 +1,9 @@
 [{
-	"id": 3,
+	"id": 2,
 	"category": "SwiftUI",
 	"content": {
 		"id": 0,
-		"categoryID": 3,
+		"categoryID": 2,
 		"image": "swiftUI",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
@@ -74,7 +74,7 @@
 	},
 	"test": {
 		"id": 0,
-		"categoryID": 3,
+		"categoryID": 2,
 		"image": "swiftUI",
 		"time": "30 minutes",
 		"description": "Test your knowledge of SwiftUI.",
