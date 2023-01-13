@@ -55,20 +55,6 @@
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
 				"explanation": "<p>SwiftUI implements many data management types, like State and Binding, as Swift property wrappers. Apply a property wrapper by adding an attribute with the wrapper's name to a property's declaration. The property gains the behavior specified by the wrapper. The state and data flow property wrappers in SwiftUI watch for changes in your data, and automatically update affected views as needed. When you refer directly to the property in your code, you access the wrapped value. Alternatively, you can access a property wrapper's projected value by prefixing the property name with the dollar sign ($). SwiftUI state and data flow property wrappers always project a Binding, which is a two-way connection to the wrapped value, allowing another view to access and mutate a single source of truth.</p>"
-			},
-			{
-				"id": 7,
-				"title": "Gestures",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Respond to taps and gestures by adding gesture modifiers to your views. Create custom gestures from individual gestures using the simultaneously(with:), sequenced(before:), or exclusively(before:) modifiers, or combine gestures with keyboard modifiers using the modifiers(_:) modifier.</p>"
-			},
-			{
-				"id": 8,
-				"title": "Previews",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Generate dynamic, interactive previews of your custom views. Xcode statically discovers types that conform to the PreviewProvider protocol in your app, and generates previews for each provider it discovers.</p>"
 			}
 		]
 	},
@@ -127,28 +113,6 @@
 					"You can add UIKit views to a SwiftUI project using representable objects",
 					"SwiftUI and UIKit are separate, and shouldn't be integrated",
 					"Answers 1 and 2"
-				]
-			},
-			{
-				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
-				]
-			},
-			{
-				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
-				"correctIndex": 1,
-				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
 				]
 			}
 		]
