@@ -1,15 +1,15 @@
 [{
 	"id": 2,
-	"category": "SwiftUI",
+	"category": "SwiftUI_BOONGA",
 	"content": {
 		"id": 0,
 		"categoryID": 2,
-		"image": "swiftUI",
+		"image": "swiftUI_BOONGA",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
 				"id": 0,
-				"title": "App Structure and Behaviour",
+				"title": "DUBDUB",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
 				"explanation": "<p>Declare your app by creating a structure that conforms to the App protocol and add one or more scenes to it. You can use built-in scenes, like WindowGroup, or you can compose custom scenes that conform to the Scene protocol. Scenes contain the view hierarchies that define the user interface of your app, and have a life cycle that the system manages.</p>"
@@ -75,7 +75,7 @@
 	"test": {
 		"id": 0,
 		"categoryID": 2,
-		"image": "swiftUI",
+		"image": "swiftUI_BOONGA",
 		"time": "30 minutes",
 		"description": "Test your knowledge of SwiftUI.",
 		"questions": [{
